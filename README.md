@@ -29,7 +29,7 @@ This Power BI dashboard presents an interactive and comprehensive analysis of th
 
 ## 📁 Dataset
 
-- **File Name:** `Cleaned_Summer_Olympic_Medals.csv`
+- **File Name:** `Cleaned_Summer_Olympic_medals-1976-to-2008`
 - **Total Records:** 15,315
 - **Columns:** city, year, sport, discipline, event, athlete, gender, country, medal, continent, repeat_medalist, sport_group, etc.
 - Cleaned and preprocessed for visual analysis in Power BI.
